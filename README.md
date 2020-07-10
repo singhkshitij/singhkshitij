@@ -41,5 +41,5 @@ I write about things I am familiar with and things that I am learning.
 </details>
 
 <p align='right'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=singhkshitij.visitor-badge">
  <p/>
