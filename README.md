@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others a public as possible. 
-If you found value in something I have created, please feel free to give me a shout out [@ikshitijsingh](https://twitter.com/ikshitijsingh/)
+If you found value in something I have created, please feel free to give me a shout out [@ikshitijsingh](https://twitter.com/ikshitijsingh/) or give some ♥ on [mail](mailto:singh_kshitij@yahoo.com). Feel free to reach out in case you want to just get in touch also.
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/ikshitijsingh/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
