@@ -39,3 +39,7 @@ I write about things I am familiar with and things that I am learning.
  - Blogging (Posting, SEO, Readability etc) <br/>
  - React Native 
 </details>
+
+<p align='right'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
+ <p/>
