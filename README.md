@@ -24,3 +24,18 @@ If you found value in something I have created, please feel free to give me a sh
 <a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/singhkshitij"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/master/icon/dev.png"></a>
 </p>
+
+### My Digital Garden 🌱
+
+I write regular blog posts, most of which you will find on my personal blog [MyTrashCode](https://mytrashcode.com) (Don't go on the name though :D) 
+
+I write about things I am familiar with and things that I am learning. 
+
+<details>
+ <summary>What i am learning/working on these days</strong></summary>
+ - Clojure
+ - Working with Google cloud
+ - Building something awesome
+ - Blogging (Posting, SEO, Readability etc)
+ - React Native
+</details>
