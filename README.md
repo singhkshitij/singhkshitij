@@ -27,15 +27,15 @@ If you found value in something I have created, please feel free to give me a sh
 
 ### My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on my personal blog [MyTrashCode](https://mytrashcode.com) (Don't go on the name though :D) 
+I write regular blog posts, most of which you will find on my personal blog [MyTrashCode](https://mytrashcode.com) (Don't go on the name though 😄) 
 
 I write about things I am familiar with and things that I am learning. 
 
 <details>
- <summary>What i am learning/working on these days</strong></summary>
- - Clojure
- - Working with Google cloud
- - Building something awesome
- - Blogging (Posting, SEO, Readability etc)
- - React Native
+ <summary><strong>What i am learning/working on these days</strong></summary>
+ - Clojure <br/>
+ - Working with Google cloud <br/>
+ - Building something awesome <br/>
+ - Blogging (Posting, SEO, Readability etc) <br/>
+ - React Native 
 </details>
