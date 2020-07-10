@@ -33,14 +33,16 @@ I write about things I am familiar with and things that I am learning.
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
- - Clojure <br/>
- - Working with Google cloud <br/>
- - Building something awesome <br/>
- - Blogging (Posting, SEO, Readability etc) <br/>
- - React Native 
+   - Clojure <br/>
+   - Working with Google cloud <br/>
+   - Building something awesome <br/>
+   - Blogging (Posting, SEO, Readability etc) <br/>
+   - React Native 
 </details>
 
+<p align='left'>
 ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&show_icons=true&hide=["prs","issues","contribs"])
+<p/>
 
 <p align='right'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=singhkshitij.visitor-badge">
