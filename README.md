@@ -43,6 +43,7 @@ I write about things I am familiar with and things that I am learning.
 ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&show_icons=true&hide=["prs","issues","contribs"])
 
 <p align="right">
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=singhkshitij.visitor-badge"/> 
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<img src="https://visitor-badge.glitch.me/badge?page_id=singhkshitij.visitor-badge"/> 
 </p>
 
