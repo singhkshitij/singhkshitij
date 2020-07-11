@@ -4,13 +4,13 @@ I am full stack dev looking to solve real world problems. I have a passion for l
 If you found value in something I have created, please feel free to give me a shout out [@ikshitijsingh](https://twitter.com/ikshitijsingh/) or give some ♥ on [mail](mailto:singh_kshitij@yahoo.com). Feel free to reach out in case you want to just get in touch also.
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/ikshitijsingh/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ikshitijsingh"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/singhkshitij"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/master/icon/dev.png"></a>
+<a href="https://www.linkedin.com/in/ikshitijsingh/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ikshitijsingh"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://mytrashcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
 </p>
 
-### My Digital Garden 🌱
+### My Digital Footprints 🌱
 
 I write regular blog posts, most of which you will find on my personal blog [MyTrashCode](https://mytrashcode.com) (Don't go on the name though 😄) 
 
