@@ -28,7 +28,7 @@ I write about things I am familiar with and things that I am learning.
 
 ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkshitij)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
  
