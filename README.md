@@ -26,7 +26,7 @@ I write about things I am familiar with and things that I am learning.
    - React Native 
 </details>
 
-![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&show_icons=true&&hide_border=false&title_color=#000&hide=["prs","issues","contribs"])
+![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&show_icons=true&&hide_border=false&title_color=#000&hide=prs,issues,contribs)
 
 <p>
  
