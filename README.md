@@ -27,9 +27,3 @@ I write about things I am familiar with and things that I am learning.
 </details>
 
 ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
-
-<p>
- 
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-</p>
-
