@@ -22,9 +22,9 @@ I write about things I am familiar with and things that I am learning.
  <ul>
    <li> Working with Clojure </li>
    <li> Playing around with GCP </li>
-  <li> Building <a href="https://namelss.com">Namelss</a> </li>
-  <li> Blogging at >a href="https://mytrashcode.com">MTC</a> </li>
-   <li> React Native development
+   <li> Building <a href="https://namelss.com">Namelss</a> </li>
+   <li> Blogging at <a href="https://mytrashcode.com">MTC</a> </li>
+   <li> React Native development</li>
   </url>
 </details>
 
