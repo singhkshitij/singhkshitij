@@ -19,11 +19,13 @@ I write about things I am familiar with and things that I am learning.
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-   - Working with Clojure <br/>
-   - Playing around with GCP <br/>
-   - Building https://namelss.com<br/>
-   - Blogging at https://mytrashcode.com <br/>
-   - React Native development
+ <ul>
+   <li> Working with Clojure </li>
+   <li> Playing around with GCP </li>
+  <li> Building <a href="https://namelss.com">Namelss</a> </li>
+  <li> Blogging at >a href="https://mytrashcode.com">MTC</a> </li>
+   <li> React Native development
+  </url>
 </details>
 
 ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
