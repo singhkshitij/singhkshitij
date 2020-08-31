@@ -20,6 +20,7 @@ I write about things I am familiar with and things that I am learning.
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
  <ul>
+   <li> Efficient system designing </li>
    <li> Working with Clojure </li>
    <li> Playing around with GCP </li>
    <li> Building <a href="https://namelss.com">Namelss</a> </li>
