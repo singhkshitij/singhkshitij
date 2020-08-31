@@ -19,11 +19,12 @@ I write about things I am familiar with and things that I am learning.
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-   - Clojure <br/>
-   - Working with Google cloud <br/>
-   - Building something awesome <br/>
-   - Blogging (Posting, SEO, Readability etc) <br/>
-   - React Native 
+   - Working with Clojure <br/>
+   - Playing around with GCP <br/>
+   - Building namelss.com <br/>
+   - Blogging at mytrashcode.com <br/>
+   - React Native development
 </details>
 
 ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
