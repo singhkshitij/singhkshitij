@@ -21,8 +21,8 @@ I write about things I am familiar with and things that I am learning.
  <summary><strong>What i am learning/working on these days</strong></summary>
    - Working with Clojure <br/>
    - Playing around with GCP <br/>
-   - Building namelss.com <br/>
-   - Blogging at mytrashcode.com <br/>
+   - Building [namelss.com](namelss.com) <br/>
+   - Blogging at [MTC](https://mytrashcode.com) <br/>
    - React Native development
 </details>
 
