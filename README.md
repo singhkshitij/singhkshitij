@@ -29,7 +29,7 @@ I write about things I am familiar with and things that I am learning.
   </ul>
 </details>
 
-### Few of my live projects i use everyday :
+##### Few self-built live projects i use everyday :
 * Feedback/Chat platform : [Namelss](https://namelss.com)
 * Url-shortener : [Chootu](https://chootu.netlify.app/)
 * Kanban task tracking board: [kanbang.com](https://kanbang-d1e70.web.app/)
