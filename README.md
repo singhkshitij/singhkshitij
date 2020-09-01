@@ -19,7 +19,7 @@ I write about things I am familiar with and things that I am learning.
 #### Few self-built live projects i use everyday :
 * Feedback/Chat platform : [Namelss](https://namelss.com)
 * Url-shortener : [Chootu](https://chootu.netlify.app/)
-* Kanban task tracking board: [kanbang.com](https://kanbang-d1e70.web.app/)
+* Kanban task tracking board: [Kanbang](https://kanbang-d1e70.web.app/)
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
