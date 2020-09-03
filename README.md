@@ -30,6 +30,7 @@ I write about things I am familiar with and things that I am learning.
    <li> Building <a href="https://namelss.com">Namelss</a> </li>
    <li> Blogging at <a href="https://mytrashcode.com">MTC</a> </li>
    <li> React Native development</li>
+   <li> Kubernetes</li>
   </ul>
 </details>
 
