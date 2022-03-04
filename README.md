@@ -14,17 +14,5 @@ If you found value in something I have created, please feel free to give me a sh
 ### My Digital Footprints 🌱
 [Check my portfolio](https://ikshitij.com)
 
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
- <ul>
-   <li> Efficient system designing </li>
-   <li> Working with Clojure </li>
-   <li> Playing around with GCP </li>
-   <li> Building <a href="https://namelss.com">Namelss</a> </li>
-   <li> React Native development</li>
-   <li> Kubernetes</li>
-  </ul>
-</details>
-
 ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkshitij&layout=compact&hide_border=true)
