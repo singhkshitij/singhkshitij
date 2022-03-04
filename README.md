@@ -12,11 +12,7 @@ If you found value in something I have created, please feel free to give me a sh
 </p>
 
 ### My Digital Footprints 🌱
-
-#### Few self-built live tools i use everyday :
-* Feedback/Chat platform : [Namelss](https://namelss.com)
-* Url-shortener : [Chootu](https://chootu.netlify.app/)
-* Kanban task tracking board: [Kanbang](https://kanbang-d1e70.web.app/)
+[Check my portfolio](https://ikshitij.com)
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
