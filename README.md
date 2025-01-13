@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
-If you found value in something I have created, please feel free to give me a shout out [@ikshitijsingh](https://twitter.com/ikshitijsingh/) or give some ♥ on [mail](mailto:singh_kshitij@yahoo.com). Feel free to reach out in case you want to just get in touch also. I'm currently building [Work from home jobs](https://iworkfromhomejobs.com/)
+If you found value in something I have created, please feel free to give me a shout out [@ikshitijsingh](https://twitter.com/ikshitijsingh/) or give some ♥ on [mail](mailto:singh_kshitij@yahoo.com). Feel free to reach out in case you want to just get in touch also. I'm currently building 
+1. [Work from home jobs](https://iworkfromhomejobs.com/)
+2. [AI based code converter, generator and debugger](https://swapcode.ai)
+3. [IFSC code search](https://ifsccodesearch.info)
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/ikshitijsingh/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
